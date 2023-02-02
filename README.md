@@ -1,2 +1,6 @@
 # json-server-docker
-json-server docker compose
+
+### Example URL
+```
+http://localhost:8000/qatar
+```
